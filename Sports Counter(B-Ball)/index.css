@@ -1,0 +1,52 @@
+.container{
+    background-color: green
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    color: white
+}
+
+#p1Score{
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+#p2Score{
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+#btn1{
+background-color: red}
+#btn2{
+ background-color: yellow}
+#btn3{
+ background-color: green}
+#btn4{
+ background-color: brown}
+#btn5{
+ background-color: blue}
+#btn6{
+ background-color: pink}
+#btn7{
+background-color: black}
+
+#btn-all{
+    color: black;
+    background-color: yellow
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    border-radius: 25px;
+}
